@@ -1,0 +1,12 @@
+node_modules
+dist
+.output
+.vercel
+.tanstack
+.wrangler
+.vite
+.env
+.env.*
+!.env.example
+.dev.vars
+.DS_Store
